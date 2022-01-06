@@ -180,7 +180,7 @@ td, th {
   padding: 0;
 }
 
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+
 @media print {
   *, :after, :before {
     color: #000 !important;
@@ -23541,7 +23541,7 @@ body.menu-open {
 }
 
 .home-philosophy {
-  background-image: url("../img/new_home/12-2021/philosophy-bg.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeE5MDMQbbPX_dj_lZZIXduUO9cqUEVOX1UA&usqp=CAU");
   background-size: cover;
   background-position: center;
   padding: 80px 0;
